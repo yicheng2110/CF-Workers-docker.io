@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="第 1 页" id="l9eoCui0ddq0zj5pC4SN">
+    <mxGraphModel dx="1554" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-13" edge="1" parent="1" source="ye2XIqT9LnTqS5PZERhZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ye2XIqT9LnTqS5PZERhZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="START" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-19" edge="1" parent="1" source="ye2XIqT9LnTqS5PZERhZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ye2XIqT9LnTqS5PZERhZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-20" edge="1" parent="1" source="ye2XIqT9LnTqS5PZERhZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ye2XIqT9LnTqS5PZERhZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-21" edge="1" parent="1" source="ye2XIqT9LnTqS5PZERhZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ye2XIqT9LnTqS5PZERhZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="意图识别" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="420" width="210" x="30" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="智能体" vertex="1">
+          <mxGeometry height="60" width="210" x="30" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="提示词" vertex="1">
+          <mxGeometry height="60" width="210" x="30" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="文字模型" vertex="1">
+          <mxGeometry height="60" width="210" x="30" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="多模态模型" vertex="1">
+          <mxGeometry height="60" width="210" x="30" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tools" vertex="1">
+          <mxGeometry height="60" width="210" x="30" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="彩票结果爬虫" vertex="1">
+          <mxGeometry height="60" width="210" x="30" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="天气查询" vertex="1">
+          <mxGeometry height="60" width="210" x="30" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="闲聊" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="彩票相关" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ye2XIqT9LnTqS5PZERhZ-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="视觉理解" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
